@@ -2,6 +2,6 @@
 
 
 1. Create Index
-  '''
+  ```
   PUT school
-  '''
+  ```
